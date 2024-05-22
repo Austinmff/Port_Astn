@@ -256,7 +256,11 @@ footer input, footer textarea, button {
   margin-bottom: 20px;
   width: 100%;
   display: block;
-  color: #ffffff;
+  color: #000;
+}
+
+button {
+  color: #fff;
 }
 
 footer .detail {
